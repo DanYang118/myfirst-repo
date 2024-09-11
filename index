@@ -10,5 +10,10 @@
   <body>
     <h1>Hello my friend!</h1>
     <p> wake up early, don't be late, go to school on time! </p>
+    <ul>
+      <li>git&github setup</li>
+      <li>html</li>
+      <li>open in a browser </li>
+    </ul>
   </body>
 </html>
